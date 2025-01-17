@@ -4,7 +4,7 @@ Research foci (and current projects/sub-repos):
 
 1) Understand how the human brain produces precise and coordinated speech movements; 
 - Temporal regularities in inter-articulator speech motor coordination
-- Spatiotemporal patterns of jaw open-close movements during speech (this is the project Alayna is working on — this will be the first repo we setup and organize).
+- Spatiotemporal patterns of jaw open-close movements during speech.
 - Reliability of articulography measures of inter-articulator speech motor coordination.
 
 2) Understand how humans learn to produce coordinated speech movements early in development; 
